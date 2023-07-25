@@ -1,0 +1,28 @@
+{
+  "savsol": "Savsol",
+  "order": "Order",
+  "password": "Password",
+  "login": "LOGIN",
+  "invalid_credential": "Invalid Credential",
+  "select_customer": "Select Customer",
+  "language": "Language",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "products_list": "Products List",
+  "place_order": "Place Your Order",
+  "order_screen": "Order Screen",
+  "customer_list" : "Customer List",
+  "search" : "Search",
+  "enter_unit": "Enter Unit",
+  "quantity" : "Quantity",
+  "enter_quantity": "Enter Quantity",
+  "name": "Name ",
+  "customer_id": "Customer ID",
+  "user_id": "USER ID",
+ 
+  "remember_me": "Remember Me",
+  "need_help": "Need Help ",
+  "call_support": "Call Support",
+  "choose_language": "Choose Language",
+  "enter_password": "Enter Password"
+}
